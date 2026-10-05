@@ -155,6 +155,9 @@ Then copy the INSERT INTO `shareholders` rows and send with this prompt. Present
 ℹ A good pentest report does not just show findings in isolation. It traces the full chain so the client understands how one weakness led to another.
 Find Jameel Malik in the staff table. His email is j.malik, the same name that appeared as the Author field in the PDF metadata. He is the IT Systems Administrator who moved the backup and left the note inside the file. The trail is complete.
 ![](Screenshot32.png)
+
+# Milestone 4 — Penetration Testing Report
+Findings Summary
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
