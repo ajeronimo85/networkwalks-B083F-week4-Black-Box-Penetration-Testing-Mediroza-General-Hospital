@@ -74,6 +74,9 @@ try admin
 
 Incorrect password
 ![](Screenshot7.png)
+
+# Step 4. Test for SQL injection
+SQL injection is a vulnerability where the application places user input directly inside a database query. A single quote breaks the query syntax and causes the database to throw an error, which tells us the field is inject
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
