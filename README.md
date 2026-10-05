@@ -101,7 +101,13 @@ Download all 3 files from the portal.
 RESULTS 
 patient_report_1.pdf - 123456
 patient_report_2.pdf - password
-![](9-Screenshothashcalculator.png)
+![](Screenshot15.png)
+![](Screenshot16.png)
+![](Screenshot17.png)
+![](Screenshot18.png)
+![](Screenshot19.png)
+![](Screenshot20.png)
+![](Screenshot21.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
