@@ -113,8 +113,14 @@ patient_report_2.pdf - password
 ℹ When a small wordlist fails it means the password is not among the most common ones. The solution is to try a larger wordlist that covers more possibilities.
 Run report 3 with the built-in list first.
 RESULT Exhausted wordlist. No match. ACCESS DENIED.
+![](Screenshot22.png)
+![](Screenshot23.png)
+![](Screenshot24.png)
+![](Screenshot25.png)
+![](Screenshot26.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
+
