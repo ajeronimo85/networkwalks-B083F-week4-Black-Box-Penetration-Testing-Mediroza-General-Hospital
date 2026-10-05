@@ -37,7 +37,7 @@ Outcome: Successfully retrieved all 3 target patient laboratory PDF reports.
 Username not found
 ![](Screenshot5.png)
 try admin
-![](9-Screenshothashcalculator.png)
+![](Screenshot6.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
