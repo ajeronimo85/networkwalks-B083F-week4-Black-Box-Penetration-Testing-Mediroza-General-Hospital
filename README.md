@@ -40,7 +40,7 @@ try admin
 ![](Screenshot6.png)
 
 Incorrect password
-![](9-Screenshothashcalculator.png)
+![](Screenshot7.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 
