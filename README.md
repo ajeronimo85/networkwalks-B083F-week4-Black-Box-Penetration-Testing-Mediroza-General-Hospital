@@ -88,7 +88,7 @@ Logged in. Portal page loads with 3 reports listed.
 
 # Step 6. Download the 3 reports
 Download all 3 files from the portal.
-![](9-Screenshothashcalculator.png)
+![](Screenshot13.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
