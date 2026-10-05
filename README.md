@@ -108,6 +108,11 @@ patient_report_2.pdf - password
 ![](Screenshot19.png)
 ![](Screenshot20.png)
 ![](Screenshot21.png)
+
+# Step 3. Crack report 3
+ℹ When a small wordlist fails it means the password is not among the most common ones. The solution is to try a larger wordlist that covers more possibilities.
+Run report 3 with the built-in list first.
+RESULT Exhausted wordlist. No match. ACCESS DENIED.
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
