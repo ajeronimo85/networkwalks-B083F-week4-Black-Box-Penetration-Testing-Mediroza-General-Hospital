@@ -85,6 +85,9 @@ The payload admin' -- works by breaking out of the query string with a quote, th
 
 Logged in. Portal page loads with 3 reports listed.
 ![](Screenshot12.1.png)
+
+# Step 6. Download the 3 reports
+Download all 3 files from the portal.
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
