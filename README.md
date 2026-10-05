@@ -81,7 +81,7 @@ SQL injection is a vulnerability where the application places user input directl
 
 # Step 5. Bypass the login
 The payload admin' -- works by breaking out of the query string with a quote, then using -- to comment out everything after it, including the password check. The database then matches admin with no password condition.
-![](9-Screenshothashcalculator.png)
+![](Screenshot11.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
