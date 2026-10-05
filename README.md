@@ -29,6 +29,8 @@ Outcome: Successfully retrieved all 3 target patient laboratory PDF reports.
 
 # Step 2. Find the login page
 ![](Screenshot2.png)
+
+# Step 3. Username enumeration
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 
