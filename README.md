@@ -150,5 +150,13 @@ Open the file in a text editor. Copy the INSERT INTO `staff` rows and send to Ch
 
 Then copy the INSERT INTO `shareholders` rows and send with this prompt. Present this SQL data as a readable table showing shareholder name, share percentage and share class.
 ![](Screenshot31.png)
+
+# Step 5. Connect the clue back to the staff table
+ℹ A good pentest report does not just show findings in isolation. It traces the full chain so the client understands how one weakness led to another.
+Find Jameel Malik in the staff table. His email is j.malik, the same name that appeared as the Author field in the PDF metadata. He is the IT Systems Administrator who moved the backup and left the note inside the file. The trail is complete.
+![](9-Screenshothashcalculator.png)
+![](9-Screenshothashcalculator.png)
+![](9-Screenshothashcalculator.png)
+![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 
