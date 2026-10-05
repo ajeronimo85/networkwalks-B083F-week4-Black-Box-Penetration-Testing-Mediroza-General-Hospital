@@ -26,6 +26,8 @@ Once inside, identified an access control weakness on the report download featur
 Outcome: Successfully retrieved all 3 target patient laboratory PDF reports.
 # Step 1. Recon
 ![](Screenshot1.png)
+
+# Step 2. Find the login page
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
