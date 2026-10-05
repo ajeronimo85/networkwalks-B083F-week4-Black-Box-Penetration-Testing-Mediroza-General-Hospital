@@ -134,7 +134,9 @@ RESULT Exhausted wordlist. No match. ACCESS DENIED.
 Both the metadata clue and the robots file point to /old. Either path leads to the same place.
 
 # Step 2. Open the old folder
-ℹ Directory listing is a misconfiguration where a web server shows the contents of a folder like a file browser when no index page exists. This exposes files that should not be publicly visible. https://medirozahospital.com/old/
+ℹ Directory listing is a misconfiguration where a web server shows the contents of a folder like a file browser when no index page exists. This exposes files that should not be publicly visible. 
+https://medirozahospital.com/old/
+![](9-Screenshothashcalculator.png)
 Directory listing is enabled. The backup file is visible. mediroza_db_backup_2019.sql
 Download it.
 ![](9-Screenshothashcalculator.png)
