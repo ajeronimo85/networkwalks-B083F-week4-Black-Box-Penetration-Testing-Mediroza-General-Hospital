@@ -95,5 +95,15 @@ Download all 3 files from the portal.
 # Step 1. Get the hash of each PDF
 ℹ PDF files use password-based encryption. To crack the password we first extract a hash, which is a mathematical fingerprint of the encrypted file. The cracking tool then tries passwords from a wordlist and checks each one against the hash.
 ![](Screenshot14.png)
+
+# Step 2. Crack reports 1 and 2
+ℹ A wordlist is a text file containing common passwords. The cracker tries each word until one matches. The built-in list covers the most common 100 passwords in the world.
+RESULTS 
+patient_report_1.pdf - 123456
+patient_report_2.pdf - password
+![](9-Screenshothashcalculator.png)
+![](9-Screenshothashcalculator.png)
+![](9-Screenshothashcalculator.png)
+![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
