@@ -24,6 +24,7 @@ During reconnaissance, discovered public and restricted portal routes.
 Identified an authentication bypass flaw on the patient login page, allowing entry without valid credentials.
 Once inside, identified an access control weakness on the report download feature that allowed downloading records belonging to other patients.
 Outcome: Successfully retrieved all 3 target patient laboratory PDF reports.
+# Step 1. Recon
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
