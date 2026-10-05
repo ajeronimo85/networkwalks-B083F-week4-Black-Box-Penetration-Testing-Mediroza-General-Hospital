@@ -84,7 +84,7 @@ The payload admin' -- works by breaking out of the query string with a quote, th
 ![](Screenshot11.1.png)
 
 Logged in. Portal page loads with 3 reports listed.
-![](9-Screenshothashcalculator.png)
+![](Screenshot12.1.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
