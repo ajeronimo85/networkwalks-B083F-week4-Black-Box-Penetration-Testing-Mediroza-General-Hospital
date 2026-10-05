@@ -146,7 +146,7 @@ Download it.
 # Step 4. Read the data with ChatGPT
 ℹ A .sql file is a database backup in raw text format. It contains SQL commands used to recreate tables and insert data. The format is readable but dense. AI tools like ChatGPT can convert it into a clean human readable table instantly.
 Open the file in a text editor. Copy the INSERT INTO `staff` rows and send to ChatGPT with this prompt. Present this SQL data as a readable table showing name, job title, department and monthly salary.
-![](9-Screenshothashcalculator.png)
+![](Screenshot30.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 
