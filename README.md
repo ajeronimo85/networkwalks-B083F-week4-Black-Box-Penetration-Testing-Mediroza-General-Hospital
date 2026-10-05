@@ -136,10 +136,12 @@ Both the metadata clue and the robots file point to /old. Either path leads to t
 # Step 2. Open the old folder
 ℹ Directory listing is a misconfiguration where a web server shows the contents of a folder like a file browser when no index page exists. This exposes files that should not be publicly visible. 
 https://medirozahospital.com/old/
-![](9-Screenshothashcalculator.png)
+![](Screenshot28.png)
+
+
 Directory listing is enabled. The backup file is visible. mediroza_db_backup_2019.sql
 Download it.
-![](9-Screenshothashcalculator.png)
+![](Screenshot29.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
