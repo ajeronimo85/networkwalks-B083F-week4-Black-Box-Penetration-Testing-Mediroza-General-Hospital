@@ -114,10 +114,17 @@ patient_report_2.pdf - password
 Run report 3 with the built-in list first.
 RESULT Exhausted wordlist. No match. ACCESS DENIED.
 ![](Screenshot22.png)
+
 ![](Screenshot23.png)
+
 ![](Screenshot24.png)
+
 ![](Screenshot25.png)
+
 ![](Screenshot26.png)
+
+# Step 4. Keep an unlocked copy of report 3
+ℹ qpdf is a command line tool that can decrypt a password protected PDF and save a clean copy. You need an unlocked copy so that metadata analysis tools can read all the file properties in the next milestone.
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
