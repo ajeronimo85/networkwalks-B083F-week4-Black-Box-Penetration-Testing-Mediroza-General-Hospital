@@ -78,6 +78,9 @@ Incorrect password
 # Step 4. Test for SQL injection
 SQL injection is a vulnerability where the application places user input directly inside a database query. A single quote breaks the query syntax and causes the database to throw an error, which tells us the field is inject
 ![](Screenshot9.png)
+
+# Step 5. Bypass the login
+The payload admin' -- works by breaking out of the query string with a quote, then using -- to comment out everything after it, including the password check. The database then matches admin with no password condition.
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
