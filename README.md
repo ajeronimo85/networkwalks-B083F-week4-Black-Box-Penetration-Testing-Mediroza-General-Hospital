@@ -132,6 +132,11 @@ RESULT Exhausted wordlist. No match. ACCESS DENIED.
 # Step 1. Confirm from robots.txt
 ℹ You already found /old in the robots file during recon in Step 1. This is why thorough recon matters. A clue found later in the assessment can connect back to something you spotted earlier.
 Both the metadata clue and the robots file point to /old. Either path leads to the same place.
+
+# Step 2. Open the old folder
+ℹ Directory listing is a misconfiguration where a web server shows the contents of a folder like a file browser when no index page exists. This exposes files that should not be publicly visible. https://medirozahospital.com/old/
+Directory listing is enabled. The backup file is visible. mediroza_db_backup_2019.sql
+Download it.
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
