@@ -126,6 +126,12 @@ RESULT Exhausted wordlist. No match. ACCESS DENIED.
 # Step 4. Keep an unlocked copy of report 3
 ℹ qpdf is a command line tool that can decrypt a password protected PDF and save a clean copy. You need an unlocked copy so that metadata analysis tools can read all the file properties in the next milestone.
 ![](Screenshot27.png)
+
+# Milestone 3 — Deep Reconnaissance
+
+# Step 1. Confirm from robots.txt
+ℹ You already found /old in the robots file during recon in Step 1. This is why thorough recon matters. A clue found later in the assessment can connect back to something you spotted earlier.
+Both the metadata clue and the robots file point to /old. Either path leads to the same place.
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
 ![](9-Screenshothashcalculator.png)
